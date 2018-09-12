@@ -1,6 +1,6 @@
 # POSist
 # POSist
-The code is complied in C++
+The code is complied in C++ <br>
 STEPS : 
 Creates a class data to store the details of the owner such as the : name , address , phone number , mobile and the value that stores the hash value . 
 The class node is created containing all the attributes .
